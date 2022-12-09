@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bOdUtdyquUR9Dj0zt8+RKIvkLAjHOQ7tcAfosOKMA01n01ElRE7MMaaOFJm/V/fqEX6cZVT4hp361IQxfio9pw==",
+  "dgSpecHash": "hW007ISYN4HwKw5BQXVd0zT85leUn/OVvldd8/SD+ij6hYAwUwn3HlD9kt0Qb7vA7pden683Khx9wGsC/RE+Yw==",
   "success": true,
-  "projectFilePath": "c:\\dev\\rikemorais.courses.docs.dotnet\\Udemy\\viniciusandrade\\ProEventos\\backend\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\dev\\rikemorais.courses.docs.dotnet\\Udemy\\viniciusandrade\\ProEventos\\backend\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rikea\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rikea\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
