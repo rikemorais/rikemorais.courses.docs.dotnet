@@ -11,8 +11,13 @@
   <caption>Tabela de Eventos</caption>
   <thead class="thead-dark">
     <tr>
+      <th>
+        <button type="button" class="btn btn-outline-light btn-sm"
+        (click)="alterarImagem()">
+          {{!exibirImagem ? 'Exibir' : 'Ocultar'}}
+        </button>
+      </th>
       <th>#</th>
-      <th>Imagem</th>
       <th>Tema</th>
       <th>Local</th>
       <th>Data</th>
@@ -23,14 +28,16 @@
   </thead>
   <tbody *ngIf="eventos && eventos.length">
     <tr *ngFor="let evento of eventos">
-      <td>{{evento.eventoId}}</td>
       <td>
-        <img src="/assets/{{evento.imagemURL}}"
+        <img [collapse]="!exibirImagem"
+          [isAnimated]="true"
+          src="/assets/{{evento.imagemURL}}"
           alt="Logo"
-          [style.width.px] = "widthImg"
-          [style.margin.px] = "marginImg"
+          [style.width.px] = "larguraImagem"
+          [style.margin.px] = "margemImagem"
         >
       </td>
+      <td>{{evento.eventoId}}</td>
       <td>{{evento.tema}}</td>
       <td>{{evento.local}}</td>
       <td>{{evento.data}}</td>
