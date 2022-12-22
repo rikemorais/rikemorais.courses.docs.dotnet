@@ -440,3 +440,14 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Excluindo DB
+*.db
+*.db-shm
+*.db-wal
+*.cache
+Udemy/viniciusandrade/ProEventos/backend/src/ProEventos.API/obj/Debug/net5.0/ProEventos.API.assets.cache
+Udemy/viniciusandrade/ProEventos/backend/src/ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
+Udemy/viniciusandrade/ProEventos/backend/src/ProEventos.API/obj/Debug/net5.0/ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+Udemy/viniciusandrade/ProEventos/backend/src/ProEventos.API/obj/Debug/net5.0/project.razor.json
+*.editorconfig
