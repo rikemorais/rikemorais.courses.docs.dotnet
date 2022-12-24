@@ -55,3 +55,9 @@ C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\s
 C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\dev\rikemorais.courses.docs.dotnet\Udemy\viniciusandrade\ProEventos\backend\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
