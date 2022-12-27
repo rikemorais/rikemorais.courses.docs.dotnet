@@ -2,7 +2,7 @@
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using ProEventos.API.Data;
-using ProEventos.API.Models;
+using ProEventos.Domain;
 
 namespace ProEventos.API.Controllers
 {
@@ -26,7 +26,7 @@ namespace ProEventos.API.Controllers
         public Evento GetById(int id)
         {
             return _context.Eventos.FirstOrDefault(
-                evento => evento.EventoId == id
+                evento => evento.Id == id
             );
         }
 
